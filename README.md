@@ -15,7 +15,6 @@ HOLLOW is unofficial and isn't affiliated with or endorsed by Valve.
 - Shows the mods you installed with Deadlock Mod Manager, and browses more on GameBanana, if you turn Mods on
 - Answers questions about your matches with a local AI model in LM Studio or Ollama
 - Shows your last match on your Discord profile, if you turn that on
-- Comes with HOLLOW Test Mode, a separate copy filled with made-up matches for trying things out
 
 ## Install
 
